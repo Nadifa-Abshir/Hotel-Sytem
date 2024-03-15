@@ -1,0 +1,77 @@
+.box h3{
+    margin-left: 20px;
+    font-size: 40px;
+    margin-top: 30px;
+}
+
+.food img{
+height: 200px;
+
+}
+
+.prnt-food h1{
+     font-size: 82px;
+     margin-bottom: 40px;
+     margin-left: 40px;
+     text-align: center;
+     color: rgb(13, 13, 104);
+}
+
+.prnt-food i{
+    color: rgb(113, 185, 6);
+}
+
+.swimng img{
+   height: 200px;
+
+
+}
+
+
+.prnt-swimng{
+    margin-top: 60px;
+}
+.prnt-swimng h1{
+   font-size: 60px;
+   text-align: center;
+   margin-bottom: 20px;
+   color: rgb(13, 13, 104);
+}
+.prnt-swimng i{
+    color: rgb(113, 185, 6);
+}
+ /* thisfintness */
+
+.fintness img{
+    height: 200px;
+}
+.prnt-fintness{
+    margin-top: 60px;
+}
+.prnt-fintness h1{
+   font-size: 60px;
+   text-align: center;
+   margin-bottom: 20px;
+   color: rgb(13, 13, 104);
+}
+.prnt-fintness i{
+    color: rgb(113, 185, 6);
+}
+/* 
+this is spa */
+
+.beauty img{
+    height: 200px;
+}
+.prnt-beauty{
+    margin-top: 60px;
+}
+.prnt-beauty h1{
+   font-size: 60px;
+   text-align: center;
+   margin-bottom: 20px;
+   color: rgb(13, 13, 104);
+}
+.prnt-beauty i{
+    color: rgb(113, 185, 6);
+}
